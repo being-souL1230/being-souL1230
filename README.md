@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Rishab (being-souL1230)
 
-<!--
-**being-souL1230/being-souL1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a self-driven BCA student passionate about building real-world applications using modern technologies.  
+ I enjoy working with Python and it's frameworks (Flask, Django), MySQL, C/C++, and ethical hacking tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- 🔹 Languages: Python, C, C++, Java
+- 🔹 Backend: Flask, Django (learning)
+- 🔹 Database: MySQL, Mongodb
+- 🔹 Tools: Git, VS Code,Cursor,Trae,IntelliJ
+
+---
+
+###  Projects
+-  **BruteForce Tool** – A custom password brute-force tool (Kali Linux)
+-  **Flask Chat App** – Realtime messaging with login & timestamp features
+-  **ERP System** – Student & faculty management with attendance tracking
+
+➡ More projects coming soon...
+
+---
+
+###  GitHub Stats
+![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=being-souL1230&show_icons=true&theme=tokyonight)
+
+---
+
+###  Let's Connect
+-  Email: [rishabdixit402@gmail.com](mailto:rishabdixit402@gmail.com)
+-  Portfolio/Website: Coming Soon...
+
+---
+
+_“Code. Learn. Break. Fix. Repeat.”_
