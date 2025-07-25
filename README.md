@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rishab (being-souL1230)
 
  I'm a self-driven BCA student passionate about building real-world applications using modern technologies.  
- I enjoy working with Python and it's frameworks (Flask, Django), MySQL, C/C++, and ethical hacking tools.
+ I enjoy working with Python and its frameworks (Flask, Django), MySQL, C/C++, and ethical hacking tools.
 
 ---
 
