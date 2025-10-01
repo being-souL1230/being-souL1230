@@ -9,12 +9,11 @@
 - 🔹 Languages: Python, C, C++, Java
 - 🔹 Backend: Flask, Django (learning)
 - 🔹 Database: MySQL, Mongodb
-- 🔹 Tools: Git, VS Code,Cursor,Trae,IntelliJ
+- 🔹 Tools: Git, VS Code,Render,Vercel,IntelliJ,Cloudflare,Github,
 
 ---
 
 ###  Projects
--  **BruteForce Tool** – A custom password brute-force tool (Kali Linux)
 -  **Flask Chat App** – Realtime messaging with login & timestamp features
 -  **ERP System** – Student & faculty management with attendance tracking
 
