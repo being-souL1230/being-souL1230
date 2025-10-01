@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Rishab (being-souL1230)
+## Hi there I'm Rishab (being-souL1230)
 
  I'm a self-driven BCA student passionate about building real-world applications using modern technologies.  
  I enjoy working with Python and its frameworks (Flask, Django), MySQL, C/C++, and ethical hacking tools.
@@ -18,7 +18,7 @@
 -  **Flask Chat App** – Realtime messaging with login & timestamp features
 -  **ERP System** – Student & faculty management with attendance tracking
 
-➡ More projects coming soon...
+ More projects coming soon...
 
 ---
 
