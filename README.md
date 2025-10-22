@@ -28,7 +28,7 @@
 
 ###  Let's Connect
 -  Email: [rishabdixit402@gmail.com](mailto:rishabdixit402@gmail.com)
--  Portfolio/Website: https://rishab-portfolio.onrender.com/
+-  Portfolio/Website: https://rishab-portfolio-seven.vercel.app
 
 ---
 
