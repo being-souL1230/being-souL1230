@@ -9,7 +9,7 @@
 - 🔹 Languages: Python, C, C++, Java
 - 🔹 Backend: Flask, Django (learning)
 - 🔹 Database: MySQL, Mongodb
-- 🔹 Tools: Git, VS Code,Render,Vercel,IntelliJ,Cloudflare,Github,
+- 🔹 Tools: Git, VS Code,Render,Vercel,IntelliJ,Cloudflare,Github
 
 ---
 
